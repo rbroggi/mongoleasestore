@@ -3,7 +3,7 @@ module github.com/rbroggi/mongoleasestore
 go 1.24
 
 require (
-	github.com/rbroggi/leaderelection v1.5.0
+	github.com/rbroggi/leaderelection v1.6.0
 	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.37.0
 	go.mongodb.org/mongo-driver v1.17.3
